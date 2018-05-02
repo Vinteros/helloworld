@@ -2,4 +2,4 @@
 
 Hello
 
-Sam there, i am hooman. I like pizza and cola.
+Sam here, i am hooman. I like pizza and cola.
